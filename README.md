@@ -20,11 +20,6 @@ Always curious, always learning!
 ![](https://github-contributor-stats.vercel.app/api?username=ameya-shahu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ameya-shahu&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameya-shahu&label=Profile%20views&color=0e75b6&style=flat" alt="ameya-shahu" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameya-shahu&show_icons=true&locale=en&layout=compact" alt="ameya-shahu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameya-shahu&show_icons=true&locale=en" alt="ameya-shahu" /></p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
