@@ -5,10 +5,6 @@ Outside of tech, I’m an avid athlete — you'll often find me swimming laps, h
 
 Always curious, always learning!
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameya-shahu) 
-
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameya-shahu&label=Profile%20views&color=0e75b6&style=flat" alt="ameya-shahu" /> </p>
