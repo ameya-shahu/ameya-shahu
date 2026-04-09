@@ -1,7 +1,16 @@
-# 💫 About Me:
-<br><br>Hi, I'm Ameya — a software engineer and grad student at ASU with a strong interest in DevOps, backend systems, and data infrastructure. I love building scalable systems that solve real-world problems and enjoy working at the intersection of cloud, code, and data. With hands-on experience across startups and enterprises, I thrive in environments where reliability, automation, and performance matter.
+# Hi, I'm Ameya 👋
 
-Outside of tech, I’m an avid athlete — you'll often find me swimming laps, hitting the gym, or playing cricket and badminton. 
+I'm a Software Development Engineer at Amazon, passionate about building scalable systems at the intersection of cloud, code, and data.
+
+### 💼 What I'm doing now:
+* **SDE at Amazon (Brand Registry):** Developing end-to-end solutions for various business use cases related to Brands on Amazon.
+* **Engineering Stack:** Building robust backend services and crafting frontend experiences, while also orchestrating large-scale data pipelines. I architect and optimize all of these distributed systems natively on **AWS**, focusing on scalability, reliability, and cloud best practices.
+
+### 🚀 My Background:
+With hands-on experience across startups and enterprises, I thrive in environments where reliability, automation, and performance matter. My core interests lie in backend architecture, data infrastructure and DevOps.
+
+### ⚡ Outside of work:
+I’m an avid athlete! You'll often find me swimming laps, hitting the gym, or playing cricket, badminton, and pool. When I'm not doing that, I might be recording an episode for the *Mostly Unfiltered* podcast. 
 
 Always curious, always learning!
 
